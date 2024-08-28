@@ -1,4 +1,4 @@
---------CS201 Read Me-----------
+--------CS406 Read Me-----------
 Code is written in simple cpp language and compiled with standard gnu compiler
 Our code simulates a blockchain for a fixed 4 users,using standard SHA512 function for encrytion
 Our input is in form of a menu-which gives you the option to 
@@ -15,7 +15,7 @@ To again add a block repeat the same.
 
 when you select 2. This will ask to to enter the username whose local copy you want to display anf then would display it accordingly.
 
-when you select 3. This will ask the name of the user whose local copy you want to change then it displays the number of block(for hacker's reference so that you dont enter wayward block no in the next line). Then it asks the block no yuo want to make changes in. Once you enter all this this will ask you the complete detail about the transaction as done above in case 1. Then it will simply check using the algo if this is a valid change or not and show you the display accordingly.
+when you select 3. This will ask the name of the user whose local copy you want to change then it displays the number of block(for hacker's reference so that you dont enter wayward block no in the next line). Then it asks the block no you want to make changes in. Once you enter all this this will ask you the complete detail about the transaction as done above in case 1. Then it will simply check using the algo if this is a valid change or not and show you the display accordingly.
 To get a better behold of this you can print the blockchain before and after hacker's action.
  
 
