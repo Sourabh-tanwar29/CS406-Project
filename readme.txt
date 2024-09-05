@@ -1,4 +1,4 @@
---------CS406 Read Me-----------
+--------UCS406 Read Me-----------
 Code is written in simple cpp language and compiled with standard gnu compiler
 Our code simulates a blockchain for a fixed 4 users,using standard SHA512 function for encrytion
 Our input is in form of a menu-which gives you the option to 
